@@ -28,7 +28,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "hello_world.jpeg"
+# avatar: "hello_world.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -38,10 +38,10 @@ avatar: "hello_world.jpeg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#B4E1FF"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
-page-col: "B4E1FF"
+page-col: "#B4E1FF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
@@ -51,7 +51,7 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "Copy of Copy of Copy of Untitled.png"
+navbar-img: "Copy of Copy of Copy of Untitled.png"
 # footer-img: "/img/bgimage.png"
 # page-img: "Copy of Copy of Copy of Untitled.png"
 
@@ -73,11 +73,11 @@ social-network-links:
   github: AnnalisaGibbs
   twitter: gibbs_annalisa
 #  reddit: yourname
-linkedin: Annalisa Gibbs
+  linkedin: Annalisa Gibbs
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-instagram: gibbs.annalisa
+  instagram: gibbs.annalisa
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "annalisagibbs.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -177,7 +177,7 @@ defaults:
       path: "" # all files
     values:
       layout: "page"
-      show-avatar: true
+      show-avatar: False
 
 # Use tags index page and make tags on each post clickable
 link-tags: true
