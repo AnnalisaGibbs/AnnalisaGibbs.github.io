@@ -8,7 +8,6 @@ My name is Annalisa Gibbs. I am a Data Science student and the Founder of Eden's
 
 I am a wife, a homeschooling mom of five boys and an avid gardener and a doula. I have a degree in pastry arts from Le Cordon Bleu and have worked in kitchens and hotels across the country. 
 
-You can reach me at gibbs.annalisa@gmail.com
 
 
 
